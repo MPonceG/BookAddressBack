@@ -1,0 +1,9 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/AddressBookBackEnd/.vs
+/AddressBookBackEnd/AddressBookBackEnd.Test/bin/Debug/net8.0
+/AddressBookBackEnd/AddressBookBackEnd.Test/obj
+/AddressBookBackEnd/AddressBookBackEnd/bin/Debug/net8.0
+/AddressBookBackEnd/AddressBookBackEnd/obj
